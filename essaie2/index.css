@@ -1,0 +1,131 @@
+ body {
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, black, black 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%) !important;
+}
+
+.titre{
+    text-align: center;
+    color: white;
+}
+
+.video-container {
+   background-color: transparent; 
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+ 
+}
+.centercontact{
+  display: flex;
+  justify-content: center;
+  
+  position: relative;
+ padding-top: 100%;
+ 
+}
+.centercourses{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 140%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.li-container{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  font-weight: bold;
+  
+}
+#message {
+  width: 300px;
+  height: 300px;
+}
+.container2{
+  display: flex;
+  
+  position:relative;
+ 
+ margin-top:27%;
+ justify-content: center;
+}
+.image-container{
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#titre1{
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: normal;
+  font-size: xx-large;
+
+}
+#para1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgb(0, 132, 255);
+  font-weight: normal;
+}
+#link1:hover{
+  color:  rgb(0, 132, 255);
+  text-decoration: underline;
+}
+#link1:link{
+  color:   rgb(0, 132, 255);
+}
+#link1:visited{
+  color:  rgb(0, 132, 255);
+}
+#titrepa2{
+  color: white;
+  font-size: 30px;
+}
+
+.transparent-bg {
+  background-color: transparent !important;
+}
+.color-nav:hover{
+  color: red;
+}
+.color-nav:active{
+color: white;
+}
+.color-nav:visited{
+color: white;
+}
+.color-nav:link{
+  color: white;
+}
+#ligne{
+  color: transparent;
+}
+.center3{
+ margin-left:43px;
+ color: white;
+ font-weight: bold;
+
+}
+.titre7{
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+#titre8{
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+hr{
+  background-color: white;
+}
